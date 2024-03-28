@@ -5,6 +5,8 @@ import java.util.List;
 
 public class BadNaming {
 
+    // !!! Seien Sie vorsichtig mit der Nomenklatur
+
     int d; // elapsed time in day
 
     public List<int[]> getThem(int[][] theList) {
